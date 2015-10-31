@@ -14,10 +14,10 @@ The score is based on the rate in which the spells are cast and how much damage 
 <li>((((AD at 18 - AD at 1)/18) *(AttackRange/100))/((Attack Speed at 18 - Attack Speed at 1)/18)) + ((((AP at 18 - AP at 1)/18)/((energy cost at 18 - energy cost at 1)/18))*((mgregen at 18 - mgregen at 1)/18))</li>
 
 <b>Version 1.0</b>
-<li>-Published code to Github! Hello!</li>
-<li>-Optimized for League of Legends Patch 5.21</li>
-<li>-Removed my API so I don't get in trouble with Riot. (Get your own API key!)</li>
-<li>-Current output says Katarina's Ultimate is the most efficent spell in the game</li>
+<li>Published code to Github! Hello!</li>
+<li>Optimized for League of Legends Patch 5.21</li>
+<li>Removed my API so I don't get in trouble with Riot. (Get your own API key!)</li>
+<li>Current output says Katarina's Ultimate is the most efficent spell in the game</li>
 
 <b>Legal Stuff</b>
 This program DOES NOT calculate the best champion and their spells in the game. 
@@ -28,11 +28,11 @@ League of Legends and Riot Games are trademarks or registered trademarks of Riot
 League of Legends © Riot Games, Inc.
 
 <b>Special Thanks</b>
-<li>-Riot Games. This program wouldn't even exist</li>
-<li>-Guido van Rossum, Creator of the Python Language, the smartest language ever made</li>
-<li>-Creators of Pycharm, if it weren't for them, I would have to use the default editor</li>
-<li>-My Brother, the guy who told me my ideas were stupid</li>
-<li>-Friends in League of Legends, the people who didn't make me a toxic monster in the game</li>
+<li>Riot Games. This program wouldn't even exist</li>
+<li>Guido van Rossum, Creator of the Python Language, the smartest language ever made</li>
+<li>Creators of Pycharm, if it weren't for them, I would have to use the default editor</li>
+<li>My Brother, the guy who told me my ideas were stupid</li>
+<li>Friends in League of Legends, the people who didn't make me a toxic monster in the game</li>
 
 
 
