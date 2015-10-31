@@ -1,5 +1,5 @@
 ﻿from RiotAPI import RiotAPI
-api = RiotAPI('6dda02c5-5836-44eb-b023-af31681cab48')
+api = RiotAPI('<Your API Key>')
 
 def getChampionSpells(championId,i):
     championSpells = []
