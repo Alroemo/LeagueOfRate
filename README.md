@@ -28,7 +28,7 @@ League of Legends and Riot Games are trademarks or registered trademarks of Riot
 League of Legends © Riot Games, Inc.
 
 <b>Special Thanks</b>
-<li>Riot Games. This program wouldn't even exist</li>
+<li>Riot Games. This program wouldn't even exist without their amazing game</li>
 <li>Guido van Rossum, Creator of the Python Language, the smartest language ever made</li>
 <li>Creators of Pycharm, if it weren't for them, I would have to use the default editor</li>
 <li>My Brother, the guy who told me my ideas were stupid</li>
