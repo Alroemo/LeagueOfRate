@@ -1,0 +1,135 @@
+Calculates full results to find the most efficent champions spell with spell detail
+
+Connected to pydev debugger (build 141.2569)
+Calculating Wukong score
+Calculating Jax score
+Calculating Shaco score
+Calculating Warwick score
+Calculating Nidalee score
+Calculating Zyra score
+Calculating Brand score
+Calculating Rammus score
+Calculating Corki score
+Calculating Braum score
+Calculating Anivia score
+Calculating Tryndamere score
+Calculating Miss Fortune score
+Calculating Blitzcrank score
+Calculating Yorick score
+Calculating Xerath score
+Calculating Sivir score
+Calculating Riven score
+Calculating Orianna score
+Calculating Gangplank score
+Calculating Malphite score
+Calculating Poppy score
+Calculating Karthus score
+Calculating Jayce score
+Calculating Nunu score
+Calculating Trundle score
+Calculating Sejuani score
+Calculating Graves score
+Calculating Lucian score
+Calculating Gnar score
+Calculating Lux score
+Calculating Shyvana score
+Calculating Renekton score
+Calculating Fiora score
+Calculating Jinx score
+Calculating Kalista score
+Calculating Fizz score
+Calculating Kassadin score
+Calculating Sona score
+Calculating Irelia score
+Calculating Viktor score
+Calculating Kindred score
+Calculating Cassiopeia score
+Calculating Maokai score
+Calculating Thresh score
+Calculating Kayle score
+Calculating Hecarim score
+Calculating Kha'Zix score
+Calculating Olaf score
+Calculating Ziggs score
+Calculating Syndra score
+Calculating Dr. Mundo score
+Calculating Karma score
+Calculating Annie score
+Calculating Akali score
+Calculating Leona score
+Calculating Yasuo score
+Calculating Kennen score
+Calculating Rengar score
+Calculating Ryze score
+Calculating Shen score
+Calculating Zac score
+Calculating Pantheon score
+Calculating Swain score
+Calculating Bard score
+Calculating Sion score
+Calculating Vayne score
+Calculating Nasus score
+Calculating Twisted Fate score
+Calculating Cho'Gath score
+Calculating Udyr score
+Calculating Morgana score
+Calculating Volibear score
+Calculating Caitlyn score
+Calculating Darius score
+Calculating Nocturne score
+Calculating Zilean score
+Calculating Azir score
+Calculating Rumble score
+Calculating Skarner score
+Calculating Teemo score
+Calculating Urgot score
+Calculating Amumu score
+Calculating Galio score
+Calculating Heimerdinger score
+Calculating Ashe score
+Calculating Vel'Koz score
+Calculating Singed score
+Calculating Varus score
+Calculating Twitch score
+Calculating Garen score
+Calculating Diana score
+Calculating Master Yi score
+Calculating Elise score
+Calculating Alistar score
+Calculating Katarina score
+Calculating Ekko score
+Calculating Mordekaiser score
+Calculating Kog'Maw score
+Calculating Aatrox score
+Calculating Draven score
+Calculating Tahm Kench score
+Calculating Fiddlesticks score
+Calculating Talon score
+Calculating Xin Zhao score
+Calculating Lee Sin score
+Calculating Taric score
+Calculating Malzahar score
+Calculating Lissandra score
+Calculating Tristana score
+Calculating Rek'Sai score
+Calculating Vladimir score
+Calculating Jarvan IV score
+Calculating Nami score
+Calculating Soraka score
+Calculating Veigar score
+Calculating Janna score
+Calculating Nautilus score
+Calculating Evelynn score
+Calculating Gragas score
+Calculating Zed score
+Calculating Vi score
+Calculating Lulu score
+Calculating Ahri score
+Calculating Quinn score
+Calculating LeBlanc score
+Calculating Ezreal score
+The champion with the most efficent spell is Nunu
+The most efficent spell is Absolute Zero with a score of 626 points
+Nunu begins to sap the area of heat, slowing all nearby enemies. When the spell ends, he deals massive damage to all enemies caught in the area.
+Effect: 625/875/1125
+Cost 100
