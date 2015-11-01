@@ -5,6 +5,7 @@ The program imports the Riot API using json, pip, and request to pull the static
 It calculates the score of each champion based their base Attack damage, attack range, and MP and each spell stats of AP effect, cooldown, and cost.
 
 <b>To Run:</b>
+This Program is currently under Riot's review
 Since Riot does not allow developers to share API keys, you will need to add your own key to the program in order for the program to run
 In main.py, add your API key to the api variable
 
