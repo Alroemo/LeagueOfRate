@@ -32,7 +32,7 @@ League of Legends © Riot Games, Inc.
 <li>Guido van Rossum, Creator of the Python Language, the smartest language ever made</li>
 <li>Creators of Pycharm, if it weren't for them, I would have to use the default editor</li>
 <li>My Brother, the guy who told me my ideas were stupid</li>
-<li>Friends in League of Legends, the people who didn't make me a toxic monster in the game</li>
+<li>Friends in League of Legends, the people who made League of Legends amazing</li>
 
 
 
