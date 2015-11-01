@@ -1,6 +1,6 @@
 <b>League of Rate</b>
 
-A Python 2.7 Program that uses the Riot API to calculate the most efficent champion spell
+A Python 2.7 Program that uses the Riot API to calculate the most efficient champion spell
 The program imports the Riot API using json, pip, and request to pull the static data of champions.
 It calculates the score of each champion based their base Attack damage, attack range, and MP and each spell stats of AP effect, cooldown, and cost.
 
