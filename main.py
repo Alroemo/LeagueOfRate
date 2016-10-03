@@ -1,6 +1,7 @@
 ﻿from RiotAPI import RiotAPI
 api = RiotAPI('YOUR-API-KEY')
 
+#/ Retrive the champion information from the RIOT Dev API and pulls needed information//
 def getChampionSpells(championId,i):
     championSpells = []
     champSpell = api.get_champion_spells(championId)
@@ -41,6 +42,7 @@ def calculateChampionStats(id):
     championSkill = api.get_champion_stats(id)
     championName = championId['name']
     print "Calculating",championName,"score"
+    
     championAD = championId['stats']['attackdamage']
     championADperLevel = championId['stats']['attackdamageperlevel']
     championAttackSpeedOffset = championId['stats']['attackspeedoffset']
@@ -48,6 +50,7 @@ def calculateChampionStats(id):
     championAttackRange = championId['stats']['attackrange']
     championMPRegen = championId['stats']['mpregen']
     championMPRegenPerLevel = championId['stats']['mpregenperlevel']
+    
     initalAttack = championAD + championADperLevel
     FinalAttack = championAD + (championADperLevel * 18)
     diffChampionAttackStat = (FinalAttack - initalAttack)/18
@@ -58,17 +61,20 @@ def calculateChampionStats(id):
     finalMPRegen = championMPRegen + (championMPRegenPerLevel * 18)
     diffMPRegen = (finalMPRegen - initalMPRegen)/18
     ADScore = (diffChampionAttackStat * (championAttackRange/100))/diffChampionAttackSpeedStat
+    
     if(diffChampionAttackStat <= 0):
         diffChampionAttackStat = 1
     if(diffChampionAttackSpeedStat <= 0):
         diffChampionAttackSpeedStat = 1
     if(diffMPRegen <= 0):
         diffMPRegen = 1
+        
     for i in range(0,4):
         APScore = (getChampionSpells(id, i)) * (diffMPRegen)
         score = int(ADScore + APScore)
         championSpell.append(score)
     score = 0
+    
     for i in range(0,4):
         tempSpell = championSpell[i]
         if(score < tempSpell):
