@@ -7,7 +7,7 @@ def getChampionSpells(championId,i):
     champSpell = api.get_champion_spells(championId)
     tempSpell = champSpell['spells'][i]
     maxRank = tempSpell['maxrank']
-    if(championId == 99):#thanks a lot Lux -_-
+    if(championId == 99):#Lux has no stat Rito
         return 1
     else:
         spellList = len(tempSpell['effect']) - 1
@@ -41,7 +41,7 @@ def calculateChampionStats(id):
     championId = api.get_champion_stats(id)
     championSkill = api.get_champion_stats(id)
     championName = championId['name']
-    print "Calculating",championName,"score"
+    print ("Calculating",championName,"score")
     
     championAD = championId['stats']['attackdamage']
     championADperLevel = championId['stats']['attackdamageperlevel']
